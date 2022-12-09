@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="Layer_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="QGCLogoArrow.svg" inkscape:version="0.92.2 2405546, 2018-03-11"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="72px" height="72px"
+	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<sodipodi:namedview  showgrid="false" inkscape:cy="41.171517" inkscape:cx="27.235609" inkscape:zoom="9.2709556" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" id="namedview19" inkscape:window-maximized="1" inkscape:window-y="27" inkscape:window-x="0" inkscape:window-height="1016" inkscape:window-width="2560" inkscape:pageshadow="2" inkscape:current-layer="g16" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10">
+	</sodipodi:namedview>
+<g id="g16">
+	<g id="g8">
+		<polygon id="polygon4" fill="#001070" points="35.5,2.118 35.5,53.691 1.118,70.882 		"/>
+		<path id="path6" fill="#29005B" d="M35,4.236v49.146L2.236,69.764L35,4.236 M36,0L0,72l36-18V0L36,0z"/>
+	</g>
+	<g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	</g>
+	<g id="g14">
+		<polygon id="polygon10" fill="#001070" points="36.5,53.691 36.5,2.118 70.882,70.882 		"/>
+		<path id="path12" fill="#29005B" d="M37,4.236l32.764,65.528L37,53.382V4.236 M36,0v54l36,18L36,0L36,0z"/>
+	</g>
+	<path id="path8" sodipodi:nodetypes="ccccsscccccccc" inkscape:connector-curvature="0" fill="#FFFFFF" d="M36.256,25.318H36.18
+		c-6.392,0.538-11.481,5.486-12.056,11.676v0.074v0.055c0,0.408,0.345,0.724,0.747,0.724s0.728-0.315,0.747-0.686l0,0
+		c0.478-5.504,5.013-9.896,10.678-10.378l0,0c0.383-0.019,0.689-0.315,0.708-0.686v-0.037
+		C37.021,25.633,36.678,25.318,36.256,25.318z"/>
+	<path id="path10" sodipodi:nodetypes="ccccsscccccccc" inkscape:connector-curvature="0" fill="#FFFFFF" d="M36.256,28.19H36.18
+		h-0.019c-4.803,0.538-8.611,4.318-9.07,8.821v0.093c0,0.407,0.345,0.724,0.746,0.724c0.402,0,0.728-0.315,0.747-0.686v-0.02
+		c0.479-3.928,3.674-7.042,7.712-7.505l0,0c0.383-0.018,0.689-0.314,0.708-0.685v-0.037C37.021,28.506,36.678,28.19,36.256,28.19z"
+		/>
+	
+		<path id="path12-3" sodipodi:nodetypes="cccssscccccsccc" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="
+		M36.256,31.082c-0.038,0-0.096,0-0.134,0.019c-3.081,0.5-5.511,2.873-6.028,5.856v0.019c0,0.037-0.019,0.111-0.019,0.129
+		c0,0.408,0.325,0.724,0.747,0.724h0.096c0.345-0.037,0.632-0.315,0.651-0.649v-0.074c0.44-2.316,2.334-4.151,4.746-4.577h0.038
+		c0.364-0.037,0.651-0.334,0.651-0.686v-0.037C37.021,31.416,36.678,31.082,36.256,31.082L36.256,31.082z"/>
+	<path id="path3787" inkscape:connector-curvature="0" fill="#FFFFFF" fill-opacity="0.9412" d="M0,0"/>
+	<path id="path3789" sodipodi:nodetypes="ccccccssscssssscccsccc" inkscape:connector-curvature="0" fill="#F9F9F9" d="
+		M53.932,62.91l-17.866-8.936v-0.285v-0.287h0.495h0.495l16.323,8.162c8.977,4.488,16.322,8.143,16.322,8.122
+		s-2.623-5.285-5.83-11.698c-3.797-7.592-5.874-11.828-5.955-12.141c-0.151-0.585-0.27-0.82-1.429-2.854
+		c-1.419-2.488-6.052-12.207-6.599-13.218c-0.947-1.747-1.521-2.896-2.883-5.7c-0.81-1.665-1.741-3.3-4.967-9.763
+		c-2.221-4.447-4.473-9.057-5.005-10.244l-0.969-2.16l0.004-0.815l0.004-0.815l17.885,35.76
+		c9.838,19.668,17.875,35.77,17.863,35.782C71.809,71.834,63.759,67.823,53.932,62.91L53.932,62.91z"/>
+	<path id="path3791" inkscape:connector-curvature="0" fill="#F9F9F9" d="M0.146,71.803c0.002-0.031,8.066-16.171,17.919-35.866
+		l17.916-35.81l0.004,0.83l0.004,0.829l-0.696,1.611c-0.419,0.969-7.137,14.493-16.86,33.94C9.542,55.117,2.284,69.681,2.303,69.699
+		c0.019,0.02,7.383-3.641,16.364-8.131l16.331-8.166h0.496h0.496v0.287v0.285l-17.886,8.943C8.267,67.836,0.201,71.86,0.18,71.86
+		C0.159,71.86,0.144,71.835,0.146,71.803z"/>
+</g>
+<g id="Layer_2">
+</g>
+<image overflow="visible" width="512" height="512" xlink:href="../../qgroundcontrol/resources/icons/android_512x512.png"  transform="matrix(0.0468 0 0 0.0459 24.124 24.3252)">
+</image>
+</svg>
